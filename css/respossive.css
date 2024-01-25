@@ -1,0 +1,156 @@
+@media screen and (max-width: 1399px) {
+   #home_section1 .ayat {
+      font-size: 40px;
+   }
+
+   #home_section1 .ayat-urdu {
+      font-size: 25px;
+   }
+
+   #home_section1 .ayat-ref {
+      font-size: 19px;
+   }
+}
+
+@media screen and (max-width: 1199px) {
+   #home_section1 .ayat {
+      font-size: 35px;
+   }
+
+   #home_section1 .ayat-urdu {
+      font-size: 21px;
+   }
+
+   #home_section1 .ayat-ref {
+      font-size: 16px;
+   }
+   #hadees .in-arabic{
+      font-size: 40px;
+   }
+   #hadees .in-urdu{
+      font-size: 21px;
+   }
+   #hadees .reference{
+      font-size: 16px;
+   }
+   #pillers_section{
+      height: 500px;
+   }
+}
+
+@media screen and (max-width: 991px) {
+   #home_section1 .ayat {
+      font-size: 27px;
+   }
+
+   #home_section1 .ayat-urdu {
+      font-size: 19px;
+   }
+
+   #home_section1 .ayat-ref {
+      font-size: 15px;
+   }
+
+   .namaz-player-img{
+      max-width: 350px;
+      display: block;
+      margin: 0 auto;
+   }
+   #hadees .in-arabic{
+      font-size: 35px;
+   }
+   #pillers_section{
+      height: 450px;
+   }
+}
+
+@media screen and (max-width: 767px) {
+   #home_section1 .ayat {
+      font-size: 25px;
+   }
+
+   #home_section1 .ayat-urdu {
+      font-size: 16px;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+   }
+
+   #home_section1 .ayat-ref {
+      font-size: 15px;
+   }
+
+   #books_section h3 {
+      font-size: 21px;
+   }
+
+   #books_section .hadees-book-img {
+      width: 70%;
+   }
+
+   #hadees .in-arabic{
+      font-size: 30px;
+   }
+   #pillers_section{
+      background-size: 100% auto;
+      height: auto;
+      background-repeat: no-repeat;
+      background-color: rgba(0, 0, 255, 0.5);
+      padding: 3rem 0;
+      gap: 1rem;
+      background-position: top;   
+      background-color: rgb(21 34 67);
+   }
+}
+
+
+@media screen and (max-width: 575px) {
+   #home_section1 .heading-main {
+      text-align: center;
+   }
+
+   #home_section1 .ayat {
+      text-align: center;
+      font-size: 7vw;
+   }
+
+   #home_section1 .ayat-urdu {
+      font-size: 4.5vw;
+      text-align: center;
+   }
+
+   #home_section1 .ayat-ref {
+      text-align: center;
+      font-size: 4vw;
+   }
+
+   #footer {
+      margin-top: 100px;
+   }
+
+   #footer .footer-img {
+      width: 300px;
+   }
+
+   #footer .footer-links a {
+      font-size: 16px;
+   }
+
+   #hadees .in-arabic{
+      font-size: 25px;
+   }
+   #hadees .in-urdu{
+      font-size: 19px;
+   }
+   #hadees .reference{
+      font-size: 14px;
+   }
+}
+
+
+
+@media screen and (max-width: 370px) {
+   #footer .footer-links a {
+      font-size: 4vw;
+      padding: 6px 14px;
+   }
+}

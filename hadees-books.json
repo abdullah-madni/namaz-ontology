@@ -1,0 +1,59 @@
+[
+   {
+      "search_word":"sahi-bukhari",
+      "book_name":"Sahi Bukhari",
+      "links":[
+         {
+            "title":"Sahi Bukhari Jild 1 in Urdu PDF",
+            "url":"books/Sahi-Bukhari-Urdu-1.pdf"
+         },
+         {
+            "title":"Sahi Bukhari Jild 2 in Urdu PDF",
+            "url":"books/Sahi-Bukhari-Urdu-2.pdf"
+         },
+         {
+            "title":"Sahi Bukhari Jild 3 in Urdu PDF",
+            "url":"books/Sahi-Bukhari-Urdu-3.pdf"
+         },
+         {
+            "title":"Sahi Bukhari Jild 4 in Urdu PDF",
+            "url":"books/Sahi-Bukhari-Urdu-4.pdf"
+         },
+         {
+            "title":"Sahi Bukhari Jild 5 in Urdu PDF",
+            "url":"books/Sahi-Bukhari-Urdu-5.pdf"
+         },
+         {
+            "title":"Sahi Bukhari Jild 6 in Urdu PDF",
+            "url":"books/Sahi-Bukhari-Urdu-6.pdf"
+         }
+      ]
+   },
+   {
+      "search_word":"sahi-muslim",
+      "book_name":"Sahi Muslim",
+      "links":[
+         {
+            "title":"Sahi Muslim Jild 1 in Urdu PDF",
+            "url":"books/Sahih-Muslim-Jild-1.pdf"
+         },
+         {
+            "title":"Sahi Muslim Jild 2 in Urdu PDF",
+            "url":"books/Sahih-Muslim-Jild-2.pdf"
+         },
+         {
+            "title":"Sahi Muslim Jild 3 in Urdu PDF",
+            "url":"books/Sahih-Muslim-Jild-3.pdf"
+         },
+         {
+            "title":"Sahi Muslim Jild 4 in Urdu PDF",
+            "url":"books/Sahih-Muslim-Jild-4.pdf"
+         },
+         {
+            "title":"Sahi Muslim Jild 5 in Urdu PDF",
+            "url":"books/Sahih-Muslim-Jild-5.pdf"
+         }
+
+      ]
+   }
+]
